@@ -1574,8 +1574,8 @@
 			buildSettings = {
 				ARCHS = armv7;
 				CODE_SIGN_ENTITLEMENTS = Resources/Cheddar.entitlements;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Sam Soffes";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Sam Soffes";
+				CODE_SIGN_IDENTITY = "iPhone Distribution";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COMBINE_HIDPI_IMAGES = NO;
 				COMPRESS_PNG_FILES = NO;
 				FRAMEWORK_SEARCH_PATHS = (
