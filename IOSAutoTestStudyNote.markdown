@@ -19,3 +19,16 @@ Jenkins 的安装非常简单，只需要从 Jenkins 的主页上下载最新的
 **Existed Questions**:
 
 * 需要使用开发者账户进行code sign方可编译。使用的release或debug进行编译需要证书签名。（其实也不算问题，真机调试都需要证书的）
+
+
+# Appium
+![Appium icon](http://appium.io/img/appium-logo.png)
+
+**Web site**: <http://appium.io/>
+
+**Summary**: Appium is an open source test automation framework for use with native and hybrid mobile apps. It drives iOS and Android apps using the WebDriver JSON wire protocol.
+Appium是一个开源的，适用于原生或混合移动应用应用（ hybrid mobile apps ）的自动化测试平台. Appium应用WebDriver: JSON wire protocol驱动安卓和iOS移动应用.
+
+**Key words**: WebDrive ; Native and Hybrid mobile apps; 
+
+**Learned after used**: none yet. 
