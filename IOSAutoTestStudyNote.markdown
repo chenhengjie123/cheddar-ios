@@ -20,7 +20,6 @@ Jenkins 的安装非常简单，只需要从 Jenkins 的主页上下载最新的
 
 * 需要使用开发者账户进行code sign方可编译。使用的release或debug进行编译需要证书签名。（其实也不算问题，真机调试都需要证书的）
 
-***
 
 # Appium
 ![Appium icon](http://appium.io/img/appium-logo.png)
